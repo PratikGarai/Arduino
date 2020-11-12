@@ -1,0 +1,7 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"K1",1," Relay SPDT"
+"L1",1," Light bulb"
+"P1",1,"5 , 5  Power Supply"
+"R1",1," Photoresistor"
+"R2",1,"4.7 kΩ Resistor"
