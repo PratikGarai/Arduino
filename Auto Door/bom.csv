@@ -1,0 +1,6 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1,"27.270484581110736 , -231.3979821832245 , -192.8197925431006  PIR Sensor"
+"K1",1," Relay SPDT"
+"P1",1,"5 , 5  Power Supply"
+"M1",1," DC Motor"
