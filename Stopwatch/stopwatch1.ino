@@ -64,6 +64,6 @@ void displayDigit(int d)
   int i;
   for(i=0;i<8;i++)
   {
-    digitalWrite(segPins[i], segCode[counter][i]);
+    digitalWrite(segPins[i], segCode[d][i]);
   }
 }
