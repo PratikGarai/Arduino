@@ -1,0 +1,8 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"GAS1",1," Gas Sensor"
+"P1",1,"5 , 5  Power Supply"
+"U2",1," Temperature Sensor [TMP36]"
+"U3",1," LCD 16 x 2 "
+"R1",1,"1 kΩ Resistor"
+"R2",1,"20 kΩ Resistor"
