@@ -1,0 +1,7 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1,"6.90189467839582 , -211.5584772079502 , -204.98204328386925  PIR Sensor"
+"PIR2",1,"42.2516442691624 , -224.3328339225942 , -250.73354189735613  PIR Sensor"
+"PIEZO1",1," Piezo"
+"Digit1",1,"Anode 7 Segment Display"
+"R1",1,"1 kΩ Resistor"
