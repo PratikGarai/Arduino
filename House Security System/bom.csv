@@ -1,0 +1,7 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1,"-19.165955040548397 , -242.52675152623704 , -242.28487460897895  PIR Sensor"
+"KEYPAD1",1," Keypad 4x4"
+"U2",1," LCD 16 x 2 "
+"R1",1,"1 kΩ Resistor"
+"PIEZO1",1," Piezo"
