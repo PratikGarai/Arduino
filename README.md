@@ -2,7 +2,7 @@
 
 Every project has the following files :
 1. The .ino for code<br>
-2. The .brd for boar design<br>
+2. The .brd for board design<br>
 3. The .png image of the circuit<br>
 4. The .csv for components list<br>
 <hr>
