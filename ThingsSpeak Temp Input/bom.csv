@@ -1,0 +1,5 @@
+Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," Temperature Sensor [TMP36]"
+"U3",1," Wifi Module (ESP8266)"
+"R1, R2",2,"1 kΩ Resistor"
