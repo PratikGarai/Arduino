@@ -19,3 +19,14 @@ The projects in their order of creation:<br>
 9. 3 LED<br>
 10. RGB Serail Input<br>
 11. Stopwatch<br>
+12. Stopwatch V2<br>
+13. IR Remote Control<br>
+14. Bi-directional Visitor Counter<br>
+15. Voltage Level Indicator<br>
+16. Weather Montioring System<br>
+17. LCD + Keypad<br>
+18. Servo Motor demo<br>
+19. Distance Using SR04<br>
+20. I2C Seperated Button LED<br>
+21. I2C Alternated Button LED<br>
+22. ThingsSpeak Temp Input<br>
