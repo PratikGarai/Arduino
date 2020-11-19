@@ -30,3 +30,5 @@ The projects in their order of creation:<br>
 20. I2C Seperated Button LED<br>
 21. I2C Alternated Button LED<br>
 22. ThingsSpeak Temp Input<br>
+23. House Security System<br>
+24. Smart Parking System<br>
