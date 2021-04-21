@@ -32,3 +32,5 @@ The projects in their order of creation:<br>
 22. ThingsSpeak Temp Input<br>
 23. House Security System<br>
 24. Smart Parking System<br>
+25. I2C Temperature Display<br>
+26. Solar Panel Tracking<br>
